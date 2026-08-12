@@ -223,8 +223,8 @@ Mi objetivo es seguir construyendo soluciones reales y mejorar continuamente mis
 # GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TomyGamG&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomyGamG&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -241,7 +241,7 @@ Mi objetivo es seguir construyendo soluciones reales y mejorar continuamente mis
 
 <p align="left">
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="www.linkedin.com/in/tomas-golart-b92679268" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
