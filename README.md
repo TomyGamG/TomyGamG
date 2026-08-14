@@ -27,7 +27,7 @@ Actualmente estoy fortaleciendo mi perfil como **Full Stack Developer y Data & A
 ### Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,typescript,js,sql,gdscript" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,typescript,js,sql,godot" />
 </p>
 
 ### Data Science & Machine Learning
