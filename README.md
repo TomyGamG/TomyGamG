@@ -85,7 +85,7 @@ Actualmente estoy fortaleciendo mi perfil como **Full Stack Developer y Data & A
 ### Bases de Datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql" />
 </p>
 
 - PostgreSQL
