@@ -152,7 +152,7 @@ Proyecto académico enfocado en el uso de **datos e inteligencia artificial para
 
 ---
 
-## ANPR — Reconocimiento Automático de Patentes
+## LPA — Reconocimiento Automático de Patentes
 
 Proyecto de Computer Vision orientado al **reconocimiento automático de matrículas vehiculares argentinas**.
 
